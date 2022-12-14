@@ -1,0 +1,20 @@
+﻿/* add your CSS here */
+ img{
+   width: 300px;
+}
+ .animal-info{
+   font-style: italic;
+}
+   li span{
+     font-weight: bold;
+}
+  li{
+    list-style: none;
+}
+ #container, .animal-info{
+   border: 1px solid #cccccc;
+   padding: 5px;
+}
+ img, h1{
+   padding: 5px;
+}
